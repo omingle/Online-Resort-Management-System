@@ -9,7 +9,7 @@ MERN Stack:
 • Frontend - ReactJS  
 • Backend – NodeJS, ExpressJS
 
-FEATURES: 
+FEATURES:
 1. System shows list of available resorts.
 2. System showcases all features and facilities offered by resort.  
 3. Customers can check availability of rooms.  
