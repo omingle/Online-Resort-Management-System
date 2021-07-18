@@ -4,10 +4,10 @@ The project aims at implementing a Resort Management System which can be used by
 The proposed system is meant to overcome the problems of manual or offline booking system, be it through phone calls or through third-party booking agents or platforms. Using this system, the customers can interact directly with the resort management. The system can manage and keep records of resorts, customers and customers’ previous visits online.  
   
 TECHNOLOGY USED:  
-MERN Stack:  
-• Database - MongoDB  
-• Frontend - ReactJS  
-• Backend – NodeJS, ExpressJS
+MERN Stack:
+1. Database - MongoDB
+2. Frontend - ReactJS
+3. Backend – NodeJS, ExpressJS
 
 FEATURES:
 1. System shows list of available resorts.
