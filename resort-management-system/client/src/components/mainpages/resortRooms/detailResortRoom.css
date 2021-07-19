@@ -1,0 +1,55 @@
+.detail-room{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 50px;
+    font-size: 115%;
+}
+.detail-room img{
+    width: 350px;
+    margin: 20px;
+    height: 350px;
+    object-fit: cover;
+    display: block;
+    border: 2px solid rgb(3, 165, 206);
+    border-radius: 10%;
+}
+.box-detail-room{
+    max-width: 500px;
+    width: 100%;
+    margin: 5px 10px;
+}
+.box-detail-room .row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.box-detail-room h2{
+    text-transform: uppercase;
+    color: rgb(3, 165, 206);
+}
+.box-detail-room p{
+    opacity: 0.8;
+}
+.discountNote {
+    font-size: 120%;
+    border: 2px solid rgb(3, 165, 206);
+    border-radius: 10px;
+    padding: 5px;
+    width: 30%;
+    text-align: center;
+}
+.roomCat {
+    font-size: large;
+}
+.box-detail-room .roomBookBtn{
+    background: rgb(3, 165, 206);
+    color: white;
+    margin-top: 30px;
+    padding: 10px 25px;
+    font-size: medium;
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}

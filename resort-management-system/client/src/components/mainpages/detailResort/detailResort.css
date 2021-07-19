@@ -1,0 +1,85 @@
+.detail{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 50px;
+    font-size: 150%;
+}
+.detail img{
+    width: 350px;
+    margin: 20px;
+    height: 350px;
+    object-fit: cover;
+    display: block;
+    border: 2px solid rgb(3, 165, 206);
+    border-radius: 50%;
+}
+
+.detail-owner-resort{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 50px 0px;
+    font-size: 150%;
+}
+.detail-owner-resort img{
+    width: 550px;
+    margin: 20px;
+    height: 550px;
+    object-fit: cover;
+    display: block;
+    border: 2px solid rgb(3, 165, 206);
+    border-radius: 10%;
+}
+
+.box-detail{
+    max-width: 500px;
+    width: 100%;
+    margin: 5px 20px;
+}
+
+.box-detail-owner{
+    max-width: 500px;
+    width: 100%;
+    margin: 130px 20px;
+}
+
+.box-detail-user{
+    max-width: 500px;
+    width: 100%;
+    margin: 85px 20px;
+}
+
+.box-detail .row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.box-detail h2{
+    text-transform: uppercase;
+    color: rgb(3, 165, 206);
+    letter-spacing: 2px;
+    font-weight: 2rem;
+}
+.box-detail p{
+    line-height: 1.5;
+    margin: 10px 0;
+    opacity: 0.8;
+}
+.box-detail .roomsBtn{
+    background: rgb(3, 165, 206);
+    color: white;
+    margin-top: 30px;
+    padding: 10px 25px;
+    font-size: medium;
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+#roomsEditBtn {
+    color: white;
+    font-weight: 400;
+}
